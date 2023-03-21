@@ -1,8 +1,8 @@
 # Workflow of maven application  for sonarqube 
 
-## I have created this template for the maven application coverage on the sonarqube. With the help of this template, Whenever you will push your code or pull your code with the changes into the particular folder which I mentioned in the template. Checks will trigger and you will be able to see the coverage on the sonar qube.
+### I have created this template for the maven application coverage on the sonarqube. With the help of this template, Whenever you will push your code or pull your code with the changes into the particular folder which I mentioned in the template. Checks will trigger and you will be able to see the coverage on the sonar qube.
 
-## You just need to follow the below step to run this template:-
+### You just need to follow the below step to run this template:-
 
 ```
 Step 1: 
